@@ -1,0 +1,6 @@
+print('nama saya imelda kafitri')
+print('ini program pertama saya')
+print('Alamat saya Toboali Bangka Selatan')
+print('Hobi saya mendengarkan musik dan bermain catur')
+print(' saya berasal dari sekolah MA Alhidayah')
+print('Saya lahir pada tanggan 28-02-2005')
